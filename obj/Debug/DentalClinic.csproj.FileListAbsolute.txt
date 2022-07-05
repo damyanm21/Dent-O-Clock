@@ -1,0 +1,240 @@
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Login.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Appointments.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Patients.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Prescriptions.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Treatments.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Users.resources
+C:\Users\PC\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CopyComplete
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Appointments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Chat.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Login.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Patients.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Payments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Prescriptions.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Status.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Treatments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Users.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Xrays.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CopyComplete
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.InsuranceCheck.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\chrome_100_percent.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\chrome_200_percent.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\chrome_elf.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\d3dcompiler_47.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\icudtl.dat
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\libcef.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\libEGL.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\libGLESv2.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\LICENSE.txt
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\am.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ar.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\bg.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\bn.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ca.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\cs.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\da.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\de.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\el.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\en-GB.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\en-US.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\es-419.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\es.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\et.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\fa.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\fi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\fil.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\fr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\gu.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\he.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\hi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\hr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\hu.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\id.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\it.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ja.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\kn.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ko.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\lt.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\lv.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ml.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\mr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ms.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\nb.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\nl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\pl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\pt-BR.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\pt-PT.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ro.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ru.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\sk.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\sl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\sr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\sv.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\sw.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\ta.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\te.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\th.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\tr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\uk.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\vi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\zh-CN.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\locales\zh-TW.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\README.txt
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\resources.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\snapshot_blob.bin
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\v8_context_snapshot.bin
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\vk_swiftshader.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\vulkan-1.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\chrome_100_percent.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\chrome_200_percent.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\chrome_elf.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\d3dcompiler_47.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\icudtl.dat
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\libcef.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\libEGL.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\libGLESv2.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\LICENSE.txt
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\am.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ar.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\bg.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\bn.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ca.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\cs.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\da.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\de.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\el.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\en-GB.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\en-US.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\es-419.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\es.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\et.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\fa.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\fi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\fil.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\fr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\gu.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\he.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\hi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\hr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\hu.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\id.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\it.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ja.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\kn.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ko.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\lt.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\lv.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ml.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\mr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ms.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\nb.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\nl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\pl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\pt-BR.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\pt-PT.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ro.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ru.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\sk.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\sl.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\sr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\sv.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\sw.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\ta.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\te.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\th.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\tr.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\uk.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\vi.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\zh-CN.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\locales\zh-TW.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\README.txt
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\resources.pak
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\snapshot_blob.bin
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\swiftshader\libEGL.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\v8_context_snapshot.bin
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\vk_swiftshader.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\vk_swiftshader_icd.json
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\vulkan-1.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.dll
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.Core.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\bin\Debug\CefSharp.WinForms.xml
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.AssemblyReference.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Appointments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Chat.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.InsuranceCheck.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Login.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Patients.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Payments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Prescriptions.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Status.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Treatments.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Users.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.Xrays.resources
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.csproj.CopyComplete
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\Damyan\Desktop\Uni\Дипломна работа 2\Дипломна работа\DentalClinic\obj\Debug\DentalClinic.pdb

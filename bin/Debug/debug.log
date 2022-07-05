@@ -1,0 +1,693 @@
+[0324/121929.490:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/121929.657:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/121929.657:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/121929.657:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/121929.658:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/121934.869:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0324/121934.872:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0324/122143.017:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0324/122151.448:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0324/122313.468:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0324/122548.527:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/122548.690:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/122548.690:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/122548.690:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/122548.690:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/122551.538:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0324/122551.541:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0324/122601.055:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0324/122630.370:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0324/122701.291:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0324/122707.058:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0324/162846.337:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/162846.503:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/162846.504:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/162846.504:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/162846.504:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0324/162848.952:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0324/162848.956:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0324/162854.640:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0324/162920.503:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0324/224755.903:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0324/224756.063:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0324/224756.063:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0324/224756.064:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0324/224756.064:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0324/224954.252:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0325/112554.624:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/112554.797:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/112554.798:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/112554.798:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/112554.798:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/113712.092:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.97d5a2ef.chunk.js (2)
+[0325/113725.199:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0325/113753.378:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/113753.548:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/113753.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/113753.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/113753.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/113754.767:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836485 [5,5] will be ignored
+[0325/183445.978:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/183446.144:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/183446.145:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/183446.145:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/183446.145:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/183447.329:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0325/183447.332:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0325/185419.627:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/185419.790:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/185419.790:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/185419.790:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/185419.791:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0325/185420.791:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836485 [5,5] will be ignored
+[0325/185420.796:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0325/185433.812:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.0bbbfbe6.chunk.js (2)
+[0325/185436.447:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0325/200409.705:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/200409.871:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/200409.872:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/200409.872:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/200409.872:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0325/200411.180:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0325/200411.184:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0325/200417.571:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.0bbbfbe6.chunk.js (2)
+[0325/200425.374:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0401/135030.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0401/135031.462:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0401/135031.463:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0401/135031.463:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0401/135031.463:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836485 [5,5]
+[0401/135035.275:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0401/135035.279:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0401/135049.157:INFO:CONSOLE(133)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/intl/bg/gmail/about/ (133)
+[0401/212726.769:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0401/212727.185:INFO:CONSOLE(130)] "%c[Logger.tsx] 
+font-weight: bold;
+color: purple;
+ Logger has loaded", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212727.408:INFO:CONSOLE(130)] "%c[default] 
+font-weight: bold;
+color: purple;
+ [BUILD INFO] Release Channel: stable, Build Number: 121719, Version Hash: faa867d7c78a37a824465241b53baf77aec35e53", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212727.411:INFO:CONSOLE(130)] "AppCrashedFatalReport: getLastCrash not supported.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212728.168:INFO:CONSOLE(1227)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://discord.com/assets/64c1be5a837a8a24706c.js (1227)
+[0401/212729.086:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212729.294:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [211ms] got hello, auth timeout=132272ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212729.495:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [411ms] connected, handshaking with fingerprint: qMdvgvIZyGD06YFwwWjQSjdVrGpBISi_CUdqq5_AwQk", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212729.637:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [553ms] computed nonce proof", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212729.771:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [687ms] handshake complete awaiting remote auth.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.182:INFO:CONSOLE(130)] "%c[AuthenticationStore] 
+font-weight: bold;
+color: purple;
+ setAuthToken called. [object Object]", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.193:INFO:CONSOLE(130)] "%c[Routing/Utils] 
+font-weight: bold;
+color: purple;
+ transitionTo - Transitioning to /app", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.200:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [23116ms] cleaning up", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.237:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [CONNECT] wss://gateway.discord.gg, encoding: json, version: 9, compression: zlib-stream", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.434:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [CONNECTED] wss://gateway.discord.gg/?encoding=json&v=9&compress=zlib-stream in 195 ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.434:INFO:CONSOLE(130)] "%c[ConnectionStore] 
+font-weight: bold;
+color: purple;
+ handleIdentify called [object Object]", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.434:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [IDENTIFY]", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.442:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [HELLO] via ["gateway-prd-main-192p",{"micros":0.0}], heartbeat interval: 41250, took 204 ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.764:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [READY] took 526ms, via ["gateway-prd-main-192p",{"micros":159114,"calls":["discord-sessions-blue-prd-2-120",{"micros":157186,"calls":["start_session",{"micros":147164,"calls":["discord-api-67ff589cfd-rb4cf",{"micros":132122,"calls":["get_user",{"micros":15460},"add_authorized_ip",{"micros":21115},"get_guilds",{"micros":15371},"private_channels",{"micros":16019},"read_states",{"micros":15014},"coros_wait",{"micros":12901},"aliases",{"micros":3580},"experiments",{"micros":5436}]}]},"guilds_connect",{"micros":1071,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] as 287df7e7532326ed4e2ed7b1fb94978c", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.769:INFO:CONSOLE(130)] "%c[AuthenticationStore] 
+font-weight: bold;
+color: purple;
+ handleConnectionOpen called [object Object]", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.796:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0401/212752.800:INFO:CONSOLE(130)] "Unsupported Locale en-GB", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.800:INFO:CONSOLE(130)] "Unsupported Locale en", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212752.809:INFO:CONSOLE(130)] "%c[GatewaySocket] 
+font-weight: bold;
+color: purple;
+ [READY_SUPPLEMENTAL] took 571ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212753.069:INFO:CONSOLE(130)] "%c[Flux] 
+font-weight: bold;
+color: purple;
+ Slow batch emitChanges took 119ms recentActions: I18N_LOAD_SUCCESS", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212753.070:INFO:CONSOLE(130)] "%c[Flux] 
+font-weight: bold;
+color: purple;
+ Slow dispatch on I18N_LOAD_SUCCESS: 121ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212814.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0401/212815.431:INFO:CONSOLE(130)] "%c[Logger.tsx] 
+font-weight: bold;
+color: purple;
+ Logger has loaded", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212815.646:INFO:CONSOLE(130)] "%c[default] 
+font-weight: bold;
+color: purple;
+ [BUILD INFO] Release Channel: stable, Build Number: 121719, Version Hash: faa867d7c78a37a824465241b53baf77aec35e53", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212815.648:INFO:CONSOLE(130)] "AppCrashedFatalReport: getLastCrash not supported.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212816.343:INFO:CONSOLE(1227)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://discord.com/assets/64c1be5a837a8a24706c.js (1227)
+[0401/212817.239:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212817.428:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [189ms] got hello, auth timeout=119113ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212817.692:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [453ms] connected, handshaking with fingerprint: DyKW-YuA7DyYr-bJvO0OUnTjcs2m75od7zTdZcDO5gQ", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212817.835:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [596ms] computed nonce proof", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212817.971:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [731ms] handshake complete awaiting remote auth.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212930.621:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0401/212931.441:INFO:CONSOLE(130)] "%c[Logger.tsx] 
+font-weight: bold;
+color: purple;
+ Logger has loaded", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212931.649:INFO:CONSOLE(130)] "%c[default] 
+font-weight: bold;
+color: purple;
+ [BUILD INFO] Release Channel: stable, Build Number: 121719, Version Hash: faa867d7c78a37a824465241b53baf77aec35e53", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212931.652:INFO:CONSOLE(130)] "AppCrashedFatalReport: getLastCrash not supported.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212932.296:INFO:CONSOLE(1227)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://discord.com/assets/64c1be5a837a8a24706c.js (1227)
+[0401/212933.172:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212933.353:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [182ms] got hello, auth timeout=119352ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212933.714:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [542ms] connected, handshaking with fingerprint: dLoPcJ8O5jfoPTe8DjgUAH1lroiej9X7mSaGrKzt1cQ", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212933.854:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [683ms] computed nonce proof", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/212933.987:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [816ms] handshake complete awaiting remote auth.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213006.019:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0401/213006.401:INFO:CONSOLE(130)] "%c[Logger.tsx] 
+font-weight: bold;
+color: purple;
+ Logger has loaded", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213006.630:INFO:CONSOLE(130)] "%c[default] 
+font-weight: bold;
+color: purple;
+ [BUILD INFO] Release Channel: stable, Build Number: 121719, Version Hash: faa867d7c78a37a824465241b53baf77aec35e53", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213006.633:INFO:CONSOLE(130)] "AppCrashedFatalReport: getLastCrash not supported.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213007.260:INFO:CONSOLE(1227)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://discord.com/assets/64c1be5a837a8a24706c.js (1227)
+[0401/213008.201:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=1", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213008.381:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [182ms] got hello, auth timeout=139639ms", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213008.601:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [401ms] connected, handshaking with fingerprint: i-5ufO5QbpJ9lUWbLNQu7aTFWGt71PM_8ad5cj3tMXU", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213008.742:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [541ms] computed nonce proof", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/213008.877:INFO:CONSOLE(130)] "%c[LoginQRSocket] 
+font-weight: bold;
+color: purple;
+ [676ms] handshake complete awaiting remote auth.", source: https://discord.com/assets/75f0173111dac4b806df.js (130)
+[0401/232529.279:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0401/232534.311:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0401/232534.334:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0401/232534.334:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0401/232547.298:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0401/232550.973:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0401/232553.464:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0401/232553.475:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0401/232553.475:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/000905.294:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0402/000908.388:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/000908.400:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/000908.401:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/000929.042:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0402/000930.972:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/000930.980:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/000930.981:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/001221.302:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0402/001450.027:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.b5d45327.chunk.js (2)
+[0402/001450.960:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803777 [6,1] will be ignored
+[0402/001543.521:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 34359738369 [8,1] will be ignored
+[0402/001546.057:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/001546.069:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/001546.069:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/001612.309:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 42949672961 [10,1] will be ignored
+[0402/001614.307:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/001614.315:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/001614.315:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/002551.152:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0402/122753.029:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0402/122755.237:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/122755.254:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/122755.254:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0402/123019.498:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0402/123021.530:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0402/123021.537:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0402/123021.537:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0408/112919.275:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.b5d45327.chunk.js (2)
+[0408/112935.733:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0408/113050.125:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0408/113229.650:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 38654705665 [9,1] will be ignored
+[0408/113235.156:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0408/113235.171:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0408/113235.171:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0408/113512.985:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.b5d45327.chunk.js (2)
+[0408/113652.080:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0408/113655.735:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0408/113655.746:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0408/113655.746:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0408/113710.010:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0424/184319.411:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.31955ced.chunk.js (2)
+[0424/184321.755:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0427/215528.502:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.31955ced.chunk.js (2)
+[0427/215533.753:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0429/233722.577:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0430/170037.991:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.31955ced.chunk.js (2)
+[0430/170050.473:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0430/170233.507:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0501/151210.492:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0501/151705.365:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0501/151709.414:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/151709.435:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/151709.435:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0501/151735.854:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151740.659:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151822.225:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151854.261:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151904.256:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151916.333:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151923.188:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/151929.569:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152017.061:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152021.556:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152036.373:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152115.417:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152158.914:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152220.168:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152342.712:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152505.531:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152515.391:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152628.353:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152632.027:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152712.573:INFO:CONSOLE(2)] "Refused to connect to 'https://bf9293c9b69525674489c8085f6dfdd1.azr.footprintdns.com/apc/trans.gif?5cd9669e801401e556af38963688d2fd' because it violates the following Content Security Policy directive: "connect-src 'self' blob: data: https://*.skype.com https://*.skypeassets.com https://*.bing.com https://*.live.com https://*.aria.microsoft.com https://*.trouter.io wss://*.skype.com wss://*.skype.com:443 https://*.bingapis.com wss://wsapi.skype.net wss://wsapi-dev.skype.net wss://wsapi-qa.skype.net https://*.virtualearth.net https://api.foursquare.com https://search.knowledge.store https://outlook.office.com https://dynmsg.modpim.com https://teams.microsoft.com https://*.teams.microsoft.com https://login.microsoftonline.com https://login.windows.net https://substrate.office.com/ https://rink.hockeyapp.net/ https://*.translatorv2.skype.net https://graph.microsoft.com http://www.msftconnecttest.com/ https://api.cortana.ai/ https://gateway.zscaler.net https://gateway.zscalerone.net https://gateway.zscalertwo.net https://gateway.zscalerthree.net https://gateway.zscloud.net https://login.zscalerone.net https://api.giphy.com https://api.tenor.com https://*.msedge.net https://outlook.office365.com https://*.measure.office.com https://api.msn.com https://in.appcenter.ms/logs".
+", source: https://secure.skypeassets.com/wcss/8-83-0-406/js/vendor2.js (2)
+[0501/152716.299:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152754.859:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/152917.692:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/153040.530:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/153204.316:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/153315.377:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/153327.812:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162023.280:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162023.281:INFO:CONSOLE(2)] "Refused to connect to 'https://0ccf863d6435ce9fcea908eda0ced7c1.azr.footprintdns.com/apc/trans.gif?cd197af7097c71d35a168d5377058b78' because it violates the following Content Security Policy directive: "connect-src 'self' blob: data: https://*.skype.com https://*.skypeassets.com https://*.bing.com https://*.live.com https://*.aria.microsoft.com https://*.trouter.io wss://*.skype.com wss://*.skype.com:443 https://*.bingapis.com wss://wsapi.skype.net wss://wsapi-dev.skype.net wss://wsapi-qa.skype.net https://*.virtualearth.net https://api.foursquare.com https://search.knowledge.store https://outlook.office.com https://dynmsg.modpim.com https://teams.microsoft.com https://*.teams.microsoft.com https://login.microsoftonline.com https://login.windows.net https://substrate.office.com/ https://rink.hockeyapp.net/ https://*.translatorv2.skype.net https://graph.microsoft.com http://www.msftconnecttest.com/ https://api.cortana.ai/ https://gateway.zscaler.net https://gateway.zscalerone.net https://gateway.zscalertwo.net https://gateway.zscalerthree.net https://gateway.zscloud.net https://login.zscalerone.net https://api.giphy.com https://api.tenor.com https://*.msedge.net https://outlook.office365.com https://*.measure.office.com https://api.msn.com https://in.appcenter.ms/logs".
+", source: https://secure.skypeassets.com/wcss/8-83-0-406/js/vendor2.js (2)
+[0501/162023.307:INFO:CONSOLE(2)] "Refused to connect to 'https://odinvzc.azureedge.net/apc/trans.gif?MonitorID=S4LW&rid=bcbccf5f378caaafd25c49e38c17e9d5&w3c=true&prot=https:&v=20190214&tag=[{%22TenantId%22:%2284df9e7f-e9f6-40af-b435-aaaaaaaaaaaa%22}]&DATA=[{%22RequestID%22:%220ccf863d6435ce9fcea908eda0ced7c1%22,%22Object%22:%22trans.gif%22,%22Conn%22:%22cold%22,%22Result%22:-1,%22T%22:128},{%22RequestID%22:%22outlook.live.com%22,%22Object%22:%22trans.gif%22,%22Conn%22:%22cold%22,%22Result%22:-1,%22T%22:128},{%22RequestID%22:%22s-ring.msedge.net%22,%22Object%22:%22trans.gif%22,%22Conn%22:%22cold%22,%22Result%22:-1,%22T%22:128}]' because it violates the following Content Security Policy directive: "connect-src 'self' blob: data: https://*.skype.com https://*.skypeassets.com https://*.bing.com https://*.live.com https://*.aria.microsoft.com https://*.trouter.io wss://*.skype.com wss://*.skype.com:443 https://*.bingapis.com wss://wsapi.skype.net wss://wsapi-dev.skype.net wss://wsapi-qa.skype.net https://*.virtualearth.net https://api.foursquare.com https://search.knowledge.store https://outlook.office.com https://dynmsg.modpim.com https://teams.microsoft.com https://*.teams.microsoft.com https://login.microsoftonline.com https://login.windows.net https://substrate.office.com/ https://rink.hockeyapp.net/ https://*.translatorv2.skype.net https://graph.microsoft.com http://www.msftconnecttest.com/ https://api.cortana.ai/ https://gateway.zscaler.net https://gateway.zscalerone.net https://gateway.zscalertwo.net https://gateway.zscalerthree.net https://gateway.zscloud.net https://login.zscalerone.net https://api.giphy.com https://api.tenor.com https://*.msedge.net https://outlook.office365.com https://*.measure.office.com https://api.msn.com https://in.appcenter.ms/logs".
+", source: https://secure.skypeassets.com/wcss/8-83-0-406/js/vendor2.js (2)
+[0501/162023.701:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162023.722:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162024.671:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162024.693:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162024.775:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162028.707:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162028.740:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162029.685:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162029.701:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162029.780:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162033.723:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162033.757:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162033.998:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162034.697:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162034.714:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162034.791:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0501/162037.931:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162050.884:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162055.635:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162101.383:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162107.298:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162118.386:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162118.594:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0501/162126.112:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[0501/162135.637:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 51539607553 [12,1] will be ignored
+[0501/162137.420:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/162137.428:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/162137.428:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0501/162145.502:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162159.268:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162250.935:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162306.408:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/162429.420:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213218.348:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0501/213223.515:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/213223.527:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/213223.527:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0501/213345.789:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213345.789:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213351.420:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213354.302:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0501/213354.547:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213358.670:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213407.597:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213435.649:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213451.035:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213454.168:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0501/213500.942:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0501/213502.480:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/213502.486:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/213502.486:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0501/213508.949:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 51539607553 [12,1] will be ignored
+[0501/213510.470:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/213510.476:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/213510.476:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0501/213520.572:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 60129542145 [14,1] will be ignored
+[0501/213522.104:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0501/213522.110:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0501/213522.110:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0514/122759.929:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0514/122800.352:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 7
+[0514/122800.532:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[0514/122804.460:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0514/122804.480:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0514/122804.480:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0514/122816.719:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122821.031:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122825.243:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122859.274:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122907.046:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122911.031:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122916.043:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122921.071:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122931.537:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122935.965:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122939.029:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/122948.802:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/122957.005:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/123005.616:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0514/123015.755:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204134.519:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0606/204157.669:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0606/204159.783:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0606/204159.796:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0606/204159.796:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0606/204212.343:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204225.285:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204234.059:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204240.631:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204249.587:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204251.700:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803781 [6,5] will be ignored
+[0606/204251.776:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[0606/204251.917:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 25769803785 [6,9] will be ignored
+[0606/204255.060:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204302.342:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0606/204305.979:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0610/113453.725:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0610/113456.861:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0610/113456.880:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0610/113456.880:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0610/113518.886:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0610/113522.602:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0610/113531.914:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0614/000909.403:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0614/000911.411:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0614/000911.424:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0614/000911.424:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0614/001050.474:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/124417.185:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.c69bce7c.chunk.js (2)
+[0618/124419.959:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0618/124614.253:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/124926.059:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0618/124929.495:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0618/124929.511:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0618/124929.511:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0618/124945.289:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/124954.638:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125003.694:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125021.260:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125039.382:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125047.680:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125058.704:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[0618/125104.938:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 51539607553 [12,1] will be ignored
+[0618/125106.917:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0618/125106.925:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0618/125106.925:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0618/125115.904:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125121.291:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125131.421:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125154.603:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125204.481:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125212.954:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125219.717:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125250.583:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125413.420:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125416.897:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125512.818:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125540.123:INFO:CONSOLE(0)] "The resource https://secure.skypeassets.com/wcss/8-83-0-406/images/favicons/favicon-unread.ico was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://web.skype.com/ (0)
+[0618/125754.604:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0618/125754.605:ERROR:cache_util.cc(146)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0618/125754.605:ERROR:disk_cache.cc(185)] Unable to create cache
+[0618/125754.605:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0618/125758.283:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.c69bce7c.chunk.js (2)
+[0618/125802.642:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0618/125954.762:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/131602.821:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 30064771073 [7,1] will be ignored
+[0618/131605.336:WARNING:media_session.cc(936)] RED codec red is missing an associated payload type.
+[0618/131605.346:ERROR:webrtc_video_engine.cc(803)] No video codecs supported.
+[0618/131605.346:ERROR:sdp_offer_answer.cc(761)] Failed to set remote offer sdp: Failed to set remote video description send parameters for m-section with mid='video'.
+[0618/144244.794:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144244.829:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144244.864:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144244.870:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144244.875:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144249.802:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144249.833:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144249.884:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144249.884:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/144249.885:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.813:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.813:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.823:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.828:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.876:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.881:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.891:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170119.932:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170120.882:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170120.883:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170120.886:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170120.892:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.827:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.831:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.841:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.892:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.892:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.906:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170124.939:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170125.898:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170125.898:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170125.900:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/170125.909:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.814:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.848:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.868:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.868:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.873:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.877:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.901:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.961:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.962:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.962:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174720.968:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.827:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.861:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.877:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.877:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.881:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.892:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.909:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.979:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.979:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.979:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/174725.987:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201713.897:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201713.913:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201713.931:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201713.948:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201718.911:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201718.931:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201718.947:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/201718.961:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223652.899:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223652.900:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223652.900:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223652.910:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223657.910:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223657.910:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223657.911:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223657.926:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223702.916:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223702.918:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223702.933:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223702.950:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223707.929:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223707.930:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223707.945:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223707.964:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223712.948:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223712.949:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223712.965:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223712.982:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223717.964:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223717.964:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223717.981:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223718.001:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223722.979:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223722.980:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223722.996:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223723.014:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223727.988:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223727.988:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223728.018:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223728.036:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223733.001:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223733.001:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223733.030:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223733.051:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223738.023:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223738.023:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223738.051:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223738.069:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223743.033:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223743.033:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223743.064:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223743.089:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223748.055:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223748.056:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223748.086:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223748.104:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223753.070:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223753.070:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223753.101:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/223753.121:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/231840.151:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/231840.162:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/231840.170:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/231840.172:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.186:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.186:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.816:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.841:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.853:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.885:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.926:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.926:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.929:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235612.934:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235613.859:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235613.869:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235613.870:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235613.870:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.195:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.195:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.831:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.846:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.860:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.894:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.946:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.948:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.949:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235617.949:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235618.865:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235618.883:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235618.883:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0618/235618.883:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/100138.110:INFO:CONSOLE(2)] "Content is cached for offline use.", source: https://portal.nra.bg/resources/static/js/main.6092103e.chunk.js (2)
+[0629/100154.781:WARNING:frame_impl.cc(423)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0629/100335.833:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0629/142944.279:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/142944.296:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145035.396:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145035.913:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145035.925:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145035.966:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145036.013:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145036.021:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145037.006:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145037.010:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/145040.405:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/153901.989:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/153901.995:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155529.259:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155529.997:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.007:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.017:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.055:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.090:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.149:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155530.159:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155534.266:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.002:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.017:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.021:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.064:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.098:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.164:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/155535.177:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/181855.788:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/181855.802:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185038.041:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185038.989:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185039.002:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185039.909:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185039.927:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
+[0629/185043.052:WARNING:dns_config_service_win.cc(512)] Failed to read DnsConfig.
